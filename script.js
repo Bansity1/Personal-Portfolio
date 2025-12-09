@@ -6,9 +6,9 @@
         ))
 
     const images = [
-         "assets/imagee/dev.png",     
-         "assets/imagee/gamer.png",   
-         "assets/imagee/night.png"   
+         "Home/assets/imagee/dev.png",     
+         "Home/assets/imagee/gamer.png",   
+         "Home/assets/imagee/night.png"   
         ];
 
     let index = 0;
