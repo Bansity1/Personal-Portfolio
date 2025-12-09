@@ -103,7 +103,7 @@ header {
 .hero {
     height: 100vh;
     width: 100vw;
-    background-image: url(assets/imagee/background.png);
+    background-image: url(Home/assets/imagee/background.png);
     overflow: hidden;
     background-size: cover;
     background-position: center;
